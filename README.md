@@ -1,4 +1,4 @@
-#Run as (for autoupdates)
+### Run as (for autoupdates)
 
 CHOKIDAR_USEPOLLING=true npm start
 
